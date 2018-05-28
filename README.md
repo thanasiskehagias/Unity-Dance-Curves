@@ -17,5 +17,5 @@ Assets used:
 
 5. Script BGLoader.js for loading sound files at runtime. I found it on the net but I cannot remember a good link to it. Sorry!.
 
-6. Music files by Frankum at freesound.org 150413_Weird_Electro---free_download.ogg and 402018__frankum__monster-beats-edm-music.ogg (from https://freesound.org/people/frankum/sounds/ ).  
+6. Music files by Frankum at freesound.org *150413_Weird_Electro---free_download.ogg* and *402018__frankum__monster-beats-edm-music.ogg* (from https://freesound.org/people/frankum/sounds/ ).  
 
