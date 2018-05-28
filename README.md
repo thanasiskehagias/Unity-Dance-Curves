@@ -1,3 +1,3 @@
 # DanceCurves
 Unity3d project with dancers and mathematical curves
-![picture](img/DanceCurvesScreenShot.jpg)
+![Image](../blob/master/DanceCurvesScreenShot.jpg?raw=true)
