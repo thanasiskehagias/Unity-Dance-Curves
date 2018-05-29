@@ -7,11 +7,11 @@ The user can choose  favorite curve and *script* the dancers *at runtime* to fol
 
 Assets used:
 
-1. Mixamo figures and animations.
+1. Mixamo figures and animations (free from https://www.mixamo.com/).
 
-2. Particles: m31_teleporter_FX (free from Unity Asset Store).
+2. Particles: Teleporter (free from Unity Asset Store: https://assetstore.unity.com/packages/vfx/particles/teleporter-25645).
 
-3. Particles: Particle Ribbon by Moonflower Carnivore (free from Unity Asset Store).
+3. Particles: Particle Ribbon (free from Unity Asset Store: https://assetstore.unity.com/packages/vfx/particles/spells/particle-ribbon-42866).
 
 4. Script for JavaScript->C# or C#->JavaScript access (from http://www.41post.com/1935/programming/unity3d-js-cs-or-cs-js-access )
 
