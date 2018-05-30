@@ -5,17 +5,17 @@ The user can choose  favorite curve and *script* the dancers *at runtime* to fol
 
 Watch video at https://www.youtube.com/watch?v=LTWnUV3hXgs&t=3s .
 
-![Image](../master/DanceCAScreenShot.jpg?raw=true)
+![Image](../master/DanceCurvesScreenShot.jpg?raw=true)
 
 Assets used:
 
 1. Mixamo figures and animations (free from https://www.mixamo.com/).
 
-2. Shader: MKGlow (free from Unity Asset Store: https://assetstore.unity.com/packages...).
+2. Particles: Teleporter (free from Unity Asset Store: https://assetstore.unity.com/packages/vfx/particles/teleporter-25645).
 
-3. Text Mesh: TextMesh Pro (free from Unity Asset Store: https://assetstore.unity.com/packages...).
+3. Particles: Particle Ribbon (free from Unity Asset Store: https://assetstore.unity.com/packages/vfx/particles/spells/particle-ribbon-42866).
 
-4. Tower (from Sketchup 3d Warehouse https://3dwarehouse.sketchup.com/?hl=en)
+4. Script for JavaScript to CSharp or CSharp to JavaScript access (from http://www.41post.com/1935/programming/unity3d-js-cs-or-cs-js-access )
 
 5. Script BGLoader.js for loading sound files at runtime. I found it on the net but I cannot remember the link to it. Sorry!.
 
